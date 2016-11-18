@@ -8,6 +8,8 @@ stage2.img should be compiled with base APP_START_ADDRESS.
 
 memory layout is defined in linker script.
 
+itself bootloader has size about 4800 bytes.
+
 # LZMA SDK from Igor Pavlov.
 
 http://www.7-zip.org/sdk.html
