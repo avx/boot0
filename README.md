@@ -1,6 +1,6 @@
 # Bootloader for STM32 with LZMA decompression into RAM
 
-stage2.img is binary image which will be uncompressed into RAM. 
+stage2.img is binary image which will be uncompressed into RAM.
 
 main.h defines the address where image will be uncompressed to (APP_START_ADDRESS).
 

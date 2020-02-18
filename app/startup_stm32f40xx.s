@@ -43,7 +43,6 @@ g_pfnVectors:
     .word  NMI_Handler
 
 .if 0
-
     .word  HardFault_Handler
     .word  MemManage_Handler
     .word  BusFault_Handler
